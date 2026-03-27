@@ -3,6 +3,8 @@ import {formularioLogin, formularioRecuperacion, formularioRegistro, registrarUs
     paginaConfirmacion
 } from '../controllers/usuarioController.js'
 
+
+
 const router = express.Router();
 
 // Definir los ENDPOINTS
